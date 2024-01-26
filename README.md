@@ -135,11 +135,6 @@ npm run test:${module_name}
 5. Create a pull request with the done tasks.
 6. Send the link to the pull request to your mentor.
 
-<a name="contacts"/>
-
-## Contact list
-
-For all questions please contact Dzmitry_Shaplyka@epam.com or Oleksandr_Halichenko@epam.com
 
 <a name="license"/>
 
